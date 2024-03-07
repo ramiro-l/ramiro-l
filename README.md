@@ -1,4 +1,15 @@
-### Hi there 👋
+### 👋🏻 Hello! I'm Ramiro Lugo
+
+```js
+if (interest > 5 ) {
+  - Argentina
+  - Computer Science Student
+  - ramirolugo@gmail.com
+} else {
+  - You can se our work at:
+    coming soon ...
+}
+```
 
 <!--
 **ramiro-l/ramiro-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
