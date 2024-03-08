@@ -1,13 +1,13 @@
 ### 👋🏻 Hello! I'm Ramiro Lugo
 
-```js
+```jsx
 if (interest > 5 ) {
-  - Argentina
-  - Computer Science Student
-  - ramirolugo@gmail.com
+  - `🌎 Argentina`
+  - `📚 Computer Science Student`
+  - `📫 ramirolugo@gmail.com`
 } else {
-  - You can se our work at:
-    coming soon ...
+  - `You can se our work at:`
+    `🔨 coming soon ... `
 }
 ```
 
