@@ -4,7 +4,7 @@
 if (interest > 5 ) {
   - `🌎 Argentina`
   - `📚 Computer Science Student`
-  - `📫 ramirolugo@gmail.com`
+  - `📫 ramirolugov@gmail.com`
 } else {
   - `You can se our work at:`
     `🔨 coming soon ... `
