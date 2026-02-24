@@ -5,6 +5,6 @@ if (interest > 5 ) {
   - `🌎 Argentina`
   - `📚 Computer Science Student`
 } else {
-  - `You can se our work at:`
+  - `You can check out my work here:`
 ```
 ‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎‎🔗 [ramiro-l.github.io/cv](https://ramiro-l.github.io/cv/)
